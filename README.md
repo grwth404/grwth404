@@ -17,11 +17,7 @@ I build AI products that run in production, from the model and the data to the A
 <br>
 I write them in TypeScript and Python, and I keep them tested and easy to maintain.
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2437,100:E2B15A&height=90&section=footer&animation=twinkling" width="100%" alt="">
-
-</div>
 
 <table>
   <tr>
@@ -103,41 +99,11 @@ I write them in TypeScript and Python, and I keep them tested and easy to mainta
 
 <h2>Workflow</h2>
 
-From the dataset to a deploy.
+From the dataset to a deploy, then one question through the agent.
 
 <br>
 
-<img alt="Data" src="https://img.shields.io/badge/Data-1E2B45?style=for-the-badge">
-&nbsp;→&nbsp;
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1E2B45?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
-&nbsp;→&nbsp;
-<img alt="RAG" src="https://img.shields.io/badge/RAG-1E2B45?style=for-the-badge">
-&nbsp;→&nbsp;
-<img alt="Agents" src="https://img.shields.io/badge/Agents-1E2B45?style=for-the-badge">
-&nbsp;→&nbsp;
-<img alt="API" src="https://img.shields.io/badge/API-7A4032?style=for-the-badge&logo=fastapi&logoColor=white">
-&nbsp;→&nbsp;
-<img alt="UI" src="https://img.shields.io/badge/UI-7A4032?style=for-the-badge&logo=react&logoColor=61DAFB">
-&nbsp;→&nbsp;
-<img alt="AWS" src="https://img.shields.io/badge/AWS-7A4032?style=for-the-badge&logo=amazonaws&logoColor=white">
-&nbsp;→&nbsp;
-<img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-7A4032?style=for-the-badge">
-
-<br><br>
-
-One question, left to right.
-
-<br>
-
-<img alt="Ask" src="https://img.shields.io/badge/Ask-2A4D6E?style=for-the-badge">
-&nbsp;→&nbsp;
-<img alt="Web" src="https://img.shields.io/badge/Web-2A4D6E?style=for-the-badge">
-&nbsp;→&nbsp;
-<img alt="API" src="https://img.shields.io/badge/API-2A4D6E?style=for-the-badge">
-&nbsp;→&nbsp;
-<img alt="Agent" src="https://img.shields.io/badge/Agent-2A4D6E?style=for-the-badge">
-&nbsp;→&nbsp;
-<img alt="Answer" src="https://img.shields.io/badge/Answer-2A4D6E?style=for-the-badge">
+<img src="workflow.png" width="100%" alt="Workflow chain. 1 Data, datasets. 2 PyTorch, model training. 3 RAG, vector search. 4 Agents, LangChain and LLM APIs. 5 API, FastAPI and Node. 6 UI, React and Next.js. 7 Cloud, AWS and Kubernetes. 8 Care, tests and CI/CD. Then one question: Person, Web, API, Agent, Answer.">
 
 </div>
 
@@ -162,7 +128,7 @@ One question, left to right.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;
-<a href="https://grwth404.vercel.app>">
+<a href="https://grwth404.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-C4843C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 
