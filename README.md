@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_animated_banner.gif" width="100%" alt="A desk at dusk facing snowy mountains and a lake. A little progress each day adds up to big results.">
+  <img src="github.gif" width="100%" alt="A desk at dusk facing snowy mountains and a lake. A little progress each day adds up to big results.">
 </p>
 
 <div align="center">
