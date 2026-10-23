@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github.gif" width="100%" alt="A desk at dusk facing snowy mountains and a lake. A little progress each day adds up to big results.">
+  <img src="github_profile.png" width="100%" alt="A desk at dusk facing snowy mountains and a lake. A little progress each day adds up to big results.">
 </p>
 
 <div align="center">
@@ -44,23 +44,7 @@ I write them in TypeScript and Python, and I keep them tested and easy to mainta
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:C46A45,100:1B2437&height=80&section=header&reversal=true&animation=fadeIn" width="100%" alt="">
 
-<h2>Skills</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=26&duration=2200&pause=700&color=F0C36A&center=true&vCenter=true&width=520&height=50&lines=Languages;Web;Data;Cloud+%26+DevOps;AI+%2F+ML">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=26&duration=2200&pause=700&color=9A6230&center=true&vCenter=true&width=520&height=50&lines=Languages;Web;Data;Cloud+%26+DevOps;AI+%2F+ML" width="520" height="50" alt="Languages, Web, Data, Cloud and DevOps, AI / ML">
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,fastapi,postgres,redis,aws,docker,kubernetes,pytorch&theme=dark&perline=7">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,fastapi,postgres,redis,aws,docker,kubernetes,pytorch&perline=7" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, FastAPI, PostgreSQL, Redis, AWS, Docker, Kubernetes, and PyTorch">
-</picture>
-
-</div>
-
-<br>
+<h2>Core Skills</h2>
 
 <table width="100%">
   <tr>
@@ -115,52 +99,47 @@ I write them in TypeScript and Python, and I keep them tested and easy to mainta
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E2B15A,100:1B2437&height=80&section=footer&animation=twinkling" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E2B15A,100:1B2437&height=60&section=footer&animation=twinkling" width="100%" alt="">
 
 <h2>Workflow</h2>
 
-How a product moves from the first dataset to a deploy.
-
-</div>
-
-```mermaid
-flowchart TB
-    data["1 · Data"]:::step --> train["2 · Model training · PyTorch"]:::step
-    train --> search["3 · RAG · vector search"]:::step
-    search --> agents["4 · Agents · LangChain · LLM APIs"]:::step
-    agents --> api["5 · API · FastAPI · Node.js"]:::step
-    api --> ui["6 · UI · React · Next.js"]:::step
-    ui --> cloud["7 · Deploy · AWS · Kubernetes"]:::step
-    cloud --> care["8 · Tests · CI/CD · maintenance"]:::step
-
-    classDef step fill:#1E2B45,stroke:#E2B15A,color:#F8F1E4,stroke-width:2px
-    linkStyle 0,1,2,3,4,5,6 stroke:#E2B15A,stroke-width:2px
-```
-
-<div align="center">
+From the dataset to a deploy.
 
 <br>
 
-How one question moves through a retrieval agent.
+<img alt="Data" src="https://img.shields.io/badge/Data-1E2B45?style=for-the-badge">
+&nbsp;→&nbsp;
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1E2B45?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+&nbsp;→&nbsp;
+<img alt="RAG" src="https://img.shields.io/badge/RAG-1E2B45?style=for-the-badge">
+&nbsp;→&nbsp;
+<img alt="Agents" src="https://img.shields.io/badge/Agents-1E2B45?style=for-the-badge">
+&nbsp;→&nbsp;
+<img alt="API" src="https://img.shields.io/badge/API-7A4032?style=for-the-badge&logo=fastapi&logoColor=white">
+&nbsp;→&nbsp;
+<img alt="UI" src="https://img.shields.io/badge/UI-7A4032?style=for-the-badge&logo=react&logoColor=61DAFB">
+&nbsp;→&nbsp;
+<img alt="AWS" src="https://img.shields.io/badge/AWS-7A4032?style=for-the-badge&logo=amazonaws&logoColor=white">
+&nbsp;→&nbsp;
+<img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-7A4032?style=for-the-badge">
+
+<br><br>
+
+One question, left to right.
+
+<br>
+
+<img alt="Ask" src="https://img.shields.io/badge/Ask-2A4D6E?style=for-the-badge">
+&nbsp;→&nbsp;
+<img alt="Web" src="https://img.shields.io/badge/Web-2A4D6E?style=for-the-badge">
+&nbsp;→&nbsp;
+<img alt="API" src="https://img.shields.io/badge/API-2A4D6E?style=for-the-badge">
+&nbsp;→&nbsp;
+<img alt="Agent" src="https://img.shields.io/badge/Agent-2A4D6E?style=for-the-badge">
+&nbsp;→&nbsp;
+<img alt="Answer" src="https://img.shields.io/badge/Answer-2A4D6E?style=for-the-badge">
 
 </div>
-
-```mermaid
-sequenceDiagram
-    actor Person
-    participant Web as Web
-    participant API as API
-    participant Agent as Agent
-    participant Store as Data
-
-    Person->>Web: Ask
-    Web->>API: Send the request
-    API->>Store: Pull context
-    API->>Agent: Prompt, tools, and model
-    Agent-->>API: Answer
-    API-->>Web: Response
-    Web-->>Person: Show it
-```
 
 <div align="center">
 
